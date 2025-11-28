@@ -174,59 +174,9 @@ Churn-Fintech-Simulator/
 └── requirements.txt
 ```
 
----
-
-## ▶️ How to Run the Project
-
-
-### **1. Clone the repository**
-
-```sh
-git clone https://github.com/girishshenoy16/Churn-Fintech-Simulator.git
-cd Churn-Fintech-Simulator
-```
 
 ---
 
-### 2. Create venv
-
-```sh
-python -m venv .venv
-..venv\Scripts\Activate.ps1
-```
-
-### 3. Install dependencies
-
-```sh
-python.exe -m pip install --upgrade pip
-pip install -r requirements.txt
-```
-
-### 4. Generate synthetic dataset
-
-```sh
-python scripts/generate_synthetic.py
-```
-
-### 5. Preprocess data
-
-```sh
-python src/data_preprocessing.py --input data/raw/sample_raw.csv --output data/processed/train_features.csv
-```
-
-### 6. Train model
-
-```sh
-python src/train_model.py --input data/processed/train_features.csv --output models/churn_model.pkl
-```
-
-### 7. Launch Streamlit App
-
-```sh
-streamlit run app/streamlit_app.py
-```
-
----
 
 ## 📊 Results
 - Model: Logistic Regression
