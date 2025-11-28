@@ -97,7 +97,7 @@ python -m venv .venv
 
 ### Install dependencies
 ```sh
-pip install --upgrade pip
+python.exe -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
