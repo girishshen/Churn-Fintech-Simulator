@@ -140,7 +140,7 @@ streamlit run app/streamlit_app.py
 # 🗂️ 8. Project Structure
 
 ```
-CHURN-FINTECH-SIMULATOR/
+Churn-Fintech-Simulator/
 │── app/
 │   └── streamlit_app.py
 │
