@@ -85,7 +85,7 @@ These insights directly guide model feature selection and business strategy.
 
 ### Clone repository
 ```sh
-git clone https://github.com/girishshen/Churn-Fintech-Simulator.git
+git clone https://github.com/girishshenoy16/Churn-Fintech-Simulator.git
 cd Churn-Fintech-Simulator
 ```
 
@@ -182,7 +182,7 @@ CHURN-FINTECH-SIMULATOR/
 ### **1. Clone the repository**
 
 ```sh
-git clone https://github.com/girishshen/Churn-Fintech-Simulator.git
+git clone https://github.com/girishshenoy16/Churn-Fintech-Simulator.git
 cd Churn-Fintech-Simulator
 ```
 
