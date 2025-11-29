@@ -24,6 +24,29 @@ This project creates a system that does exactly that.
 
 ---
 
+## 🛠️ Tech Stack & Tools
+
+**Programming & ML**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+
+**Visualization**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C9ABF?logo=python&logoColor=white)
+
+**Frameworks & Apps**  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+
+---
+
 # 📊 3. Key EDA Insights (From `EDA.ipynb`)
 
 The EDA revealed strong behavioral patterns:
