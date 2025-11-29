@@ -218,3 +218,7 @@ Churn-Fintech-Simulator/
 - Deployment to AWS/GCP
 - Real-time scoring via Kafka + Redis
 - SHAP explainability
+
+
+### 🔍 Keywords (SEO)
+Customer Churn Prediction, Fintech Analytics, Streamlit Dashboard, Machine Learning, ROI Simulator, Scikit-Learn, Python, Predictive Analytics, Churn Model, Business Analytics Project
