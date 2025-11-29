@@ -54,7 +54,7 @@ These insights directly guide model feature selection and business strategy.
 
 ---
 
-# 🖼️ 4. Demo Screenshots (Add your images here)
+# 🖼️ 4. Demo Screenshots
 
 ### 📈 EDA Snapshot — *Recency vs Churn*
 ![EDA Recency](screenshots/Recency_Distribution_By_Churn.png)
