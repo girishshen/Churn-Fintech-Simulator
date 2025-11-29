@@ -45,6 +45,12 @@ This project creates a system that does exactly that.
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 
+
+![Status](https://img.shields.io/badge/Project-Fintech%20Churn%20Analytics-blue)
+![Python](https://img.shields.io/badge/Python-3.10%2B-yellow)
+![Machine Learning](https://img.shields.io/badge/ML-RandomForest-green)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)
+
 ---
 
 # 📊 3. Key EDA Insights (From `EDA.ipynb`)
