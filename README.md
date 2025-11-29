@@ -184,8 +184,6 @@ Churn-Fintech-Simulator/
 - Precision@TopK: 3–4× better than random  
 - ROI Positive in most simulations
 
----
-
 ## ✨ Future Scope
 - XGBoost model
 - Deployment to AWS/GCP
